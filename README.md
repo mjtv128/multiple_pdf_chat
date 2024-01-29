@@ -21,7 +21,7 @@ PDFBot is a web application built using Streamlit that allows users to upload mu
 2. 
 
   ```bash
-   pip requirements.txt
+  pip requirements.txt
 
 3. 
 
