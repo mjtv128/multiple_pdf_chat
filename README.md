@@ -19,18 +19,16 @@ PDFBot is a web application built using Streamlit that allows users to upload mu
 
 
 
-2. 
+2. Install dependencies.
 
   ```bash
 
    pip requirements.txt
   ```
 
-3. 
+3. Create an .env file to store your OPENAI API Key. 
 
-Create an .env file to store your OPENAI API Key. 
-
-4. 
+4. Run application.
   
   ```bash
     streamlit app.py
